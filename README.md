@@ -40,3 +40,20 @@ To run the Web App
 ![Screenshot (71)](https://github.com/santhoshmlops/TextSummarizer/assets/133121635/65dfc9e6-7d4d-4a37-b664-86d5387d3c45)
 ![Screenshot (72)](https://github.com/santhoshmlops/TextSummarizer/assets/133121635/52ed7064-8919-4d7a-84a1-166c04198ec6)
  -->
+ 
+ # Cloud Deployment :
+ ### Deploying the project on various cloud platforms  :
+ 
+Amazon Web Services :
+
+    https://github.com/santhoshmlops/CloudDeploymentSteps/tree/main/Amazon%20Web%20Services/ECR-CI-CD-GITHUB-ACTION
+
+Google Cloud Platform :
+
+    https://github.com/santhoshmlops/CloudDeploymentSteps/tree/main/Google%20Cloud%20Platform/App%20Engine
+
+Microsoft Azure :
+
+    https://github.com/santhoshmlops/CloudDeploymentSteps/tree/main/Microsoft%20Azure/CI-CD
+
+
