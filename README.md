@@ -4,7 +4,7 @@
 
 Clone the repository
 
-    https://github.com/santhoshmlops/NLP-TextSummarizer.git
+    https://github.com/santhoshmlops/TextSummarizer.git
     
 Create a conda environment after opening the repository
 
