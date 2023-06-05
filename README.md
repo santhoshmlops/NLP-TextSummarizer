@@ -4,7 +4,7 @@
 
 Clone the repository
 
-    git clone https://github.com/santhoshmlops/DL-ChickenDiseaseClassification.git
+    https://github.com/santhoshmlops/NLP-TextSummarizer.git
     
 Create a conda environment after opening the repository
 
