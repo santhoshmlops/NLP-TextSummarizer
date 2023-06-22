@@ -1,6 +1,6 @@
 # Text Summarizer Pipeline Project
 
- ### To run the Project on your local host : 
+ ### To run the Project on your local host :
 
 Clone the repository
 
